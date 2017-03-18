@@ -6,9 +6,9 @@ With this tutorial you can learn how to plotting in Julia.
 
 ## Source code:
 - Download code from GitHub: [https://github.com/plon-io/Plotting-in-Julia](https://github.com/plon-io/Plotting-in-Julia)
-- Run project at Plon.io: []()
+- Run project at Plon.io: [https://plon.io/explore/plotting-in-julia-using-pyp/6ROLKhgqH9y9bpBmW](https://plon.io/explore/plotting-in-julia-using-pyp/6ROLKhgqH9y9bpBmW)
 
 ## Note:
 
-Sometimes tutorial can crash. In this situation you should use **Restart Kernel** 
+Sometimes tutorial can crash. In these situations you should use **Restart Kernel** 
 button in **Interactive Console** window.
